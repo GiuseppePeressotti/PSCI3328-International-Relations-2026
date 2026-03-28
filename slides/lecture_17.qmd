@@ -29,9 +29,6 @@ format:
 
 ![](pictures/qr.png){height=700}
 
-::: notes
-Give students about 90 seconds to scan. Start housekeeping while they do.
-:::
 
 
 ## Introduction
@@ -44,9 +41,6 @@ Give students about 90 seconds to scan. Start housekeeping while they do.
 - Different context: markets, trade, and finance instead of battlefields
 - [What surprised you most in the readings?]{.underline}
 
-::: notes
-Bridge from security to economy: both are about distribution, power, and who decides. Emphasize that IPE is not a separate world from what we've studied -- the same actors (states, groups, institutions) are at work, but through economic channels.
-:::
 
 
 ## Today's Schedule
@@ -55,9 +49,6 @@ Bridge from security to economy: both are about distribution, power, and who dec
 2. **Trade Politics: Who Wins, Who Loses?** --- The domestic fight over openness
 3. **Globalization and Its Discontents** --- Backlash, populism, and the future
 
-::: notes
-Three sections, building from the general framework to the specific domestic politics of trade, then zooming out to the global picture and the populist backlash.
-:::
 
 
 <!-- ============================================================ -->
@@ -70,9 +61,6 @@ Three sections, building from the general framework to the specific domestic pol
 Where politics meets the economy -- and why we can't study them apart
 :::
 
-::: notes
-Transition: "Before we can talk about trade wars or financial crises, we need a framework for thinking about how politics and economics interact."
-:::
 
 
 ## The Opening Puzzle
@@ -93,9 +81,6 @@ Transition: "Before we can talk about trade wars or financial crises, we need a 
 Your consumer experience is shaped by international politics at every level.
 :::
 
-::: notes
-Use this to ground IPE in students' everyday lives. The phone example works because everyone has one. Walk through each bullet to show how "the political" is embedded in seemingly mundane economic transactions.
-:::
 
 
 ## What Is International Political Economy?
@@ -112,9 +97,6 @@ Use this to ground IPE in students' everyday lives. The phone example works beca
 *Source: Frieden & Lake, International Political Economy (2000), p. 1*
 :::
 
-::: notes
-Stress that IPE goes beyond "economics for political scientists." You cannot understand markets without understanding the political rules governing them, and political power depends on economic resources.
-:::
 
 
 ## Why Did IPE Emerge?
@@ -137,9 +119,6 @@ Before 1970, economics and political science were studied almost entirely separa
 - Suddenly, ignoring the connection between economics and politics became impossible
 :::
 
-::: notes
-Use fragments here to build the narrative of separation and then crisis-driven reunion. The 1970s are the pivot point.
-:::
 
 
 ## The Bretton Woods Order
@@ -152,9 +131,6 @@ Use fragments here to build the narrative of separation and then crisis-driven r
 5. **1973--75** --- OPEC oil shock + global recession; economics and politics collide
 :::
 
-::: notes
-The Bretton Woods timeline gives students a historical anchor. Emphasize that the post-WWII order was a political construction -- not a natural outcome of market forces. The US designed it, funded it, and enforced it.
-:::
 
 ## Examples?
 
@@ -186,9 +162,6 @@ The Bretton Woods timeline gives students a historical anchor. Emphasize that th
 These two dimensions create four distinct perspectives. Most real-world explanations draw on more than one.
 :::
 
-::: notes
-This is the Frieden/Lake 2x2 framework. Don't spend too long here -- present it as a map, not a destination. Students should understand there are multiple valid lenses.
-:::
 
 
 ## {.section-slide background-color="#1B2838"}
@@ -199,9 +172,6 @@ This is the Frieden/Lake 2x2 framework. Don't spend too long here -- present it 
 Who wins, who loses, and why everyone fights about it
 :::
 
-::: notes
-Transition: "Now that we have a framework, we zoom into the most politically contentious dimension of IPE: trade. The question is not whether trade is good or bad -- but who benefits and who pays the price."
-:::
 
 
 ## Trade: The Basic Insight
@@ -254,9 +224,6 @@ So if trade makes everyone better off in aggregate, why is it one of the most po
 - Export industries benefit; import-competing industries lose
 - Politics divides along **industry lines:** steel workers vs. tech workers
 
-::: notes
-This is the heart of the lecture. Build the two models sequentially with auto-animate. These two models generate different predictions about WHO will form political coalitions around trade policy.
-:::
 
 
 ## Stolper-Samuelson in Plain English
@@ -359,9 +326,6 @@ This is the heart of the lecture. Build the two models sequentially with auto-an
 :::
 ::::
 
-::: notes
-Emphasize that most current research treats Ricardo-Viner (specific factors) as the more accurate model for contemporary politics. But Stolper-Samuelson still captures important dynamics, especially for broad factor categories like "college-educated vs. non-college-educated."
-:::
 
 
 ## Discussion
@@ -370,9 +334,6 @@ Emphasize that most current research treats Ricardo-Viner (specific factors) as 
 Think about your own family or community. Would free trade with China benefit or hurt the people you know? Would they divide along class lines (Stolper-Samuelson) or industry lines (Ricardo-Viner)?
 :::
 
-::: notes
-Pair discussion: 2 minutes, then share. This question makes the models personal. Listen for whether students naturally think in factor or industry terms -- that tells you which model resonates more with their experience.
-:::
 
 
 ## Historical Case: The Smoot-Hawley Tariff, 1930
@@ -384,9 +345,6 @@ In 1930, the U.S. Congress passed the Smoot-Hawley Tariff Act, altering duties o
 - **Result:** world trade collapsed, deepening the Great Depression
 - **Legacy:** Congress delegated trade authority to the President (the RTAA of 1934) to prevent it from happening again
 
-::: notes
-Smoot-Hawley is the canonical example of what happens when domestic trade politics goes unchecked. The institutional reform -- shifting trade authority to the executive -- is a key lesson about how institutions shape outcomes. Hiscox covers this in detail on pp. 68-69.
-:::
 
 
 ## Institutions Shape Who Wins
@@ -420,9 +378,6 @@ Why free trade keeps winning the economic argument but losing the political one
 - Both effects are real, but they hit different people
 - Trade policy is a fight between **concentrated losers** (specific industries) and **diffuse winners** (all consumers paying lower prices)
 
-::: notes
-This is the collective action problem applied to trade. The losers are concentrated, organized, and vocal. The winners are dispersed, unorganized, and often unaware they're benefiting. This asymmetry drives protectionist politics.
-:::
 
 
 ## Contemporary Case: The U.S.-China Trade War
@@ -434,9 +389,6 @@ Beginning in 2018, the Trump administration imposed escalating rounds of tariffs
 - **Bipartisan continuity:** the Biden administration kept most tariffs in place
 - **2025 escalation:** tariffs have expanded under the second Trump administration
 
-::: notes
-The trade war is the best contemporary example of trade politics in action. Note the bipartisan consensus -- both parties kept the tariffs, suggesting the political logic (concentrated interest group pressure) overrides the economic logic (aggregate welfare loss). Ask students: does this match Hiscox's framework?
-:::
 
 
 ## Rodrik's Warning: Globalization Fuels Populism
@@ -459,9 +411,6 @@ Dani Rodrik (2020) identifies **four channels** through which globalization driv
 - **(D) Strategic distraction:** political candidates inflame cultural and identity tensions to shift voters' attention from economic issues
 :::
 
-::: notes
-Rodrik is the recommended reading. Don't go deep -- present the four channels as a framework for understanding WHY trade creates political instability, not just economic disruption. Channel D is the most provocative: politicians deliberately use cultural wedge issues to redirect anger that has economic roots.
-:::
 
 
 ## The Backlash Goes Global
@@ -477,9 +426,6 @@ Bonifai, Nooruddin, and Rudra (2021) add a twist: the globalization backlash is 
 The anger in developing countries mirrors the anger in rich ones, for the same structural reason: **trade benefits are unevenly distributed.**
 :::
 
-::: notes
-This is from the recommended Bonifai et al. Foreign Affairs piece. The key insight for students: the populist backlash against trade isn't just a rich-country phenomenon. If developing countries also turn against openness, the entire global trading system could fragment.
-:::
 
 
 ## The Student-Accessible Case: Your Job Market
@@ -492,11 +438,8 @@ This is from the recommended Bonifai et al. Foreign Affairs piece. The key insig
 - If you enter **manufacturing, clerical work, or customer service:** automation and offshoring may threaten your position
 - Your college degree is itself a factor endowment that shapes your trade preferences
 - The Stolper-Samuelson model predicts that **high-skilled workers in the U.S. benefit from trade openness**
-::
-
-::: notes
-Make it personal. The job market example is the student-accessible analogy. Most students in the room are investing in human capital (education) -- that makes them likely winners from globalization. But not everyone in their community is in the same position.
 :::
+
 
 
 
@@ -507,9 +450,6 @@ Make it personal. The job market example is the student-accessible analogy. Most
 If trade makes the aggregate economy better off but harms specific groups, does the government have an obligation to compensate the losers? Who should pay for that?
 :::
 
-::: notes
-This connects to the basic welfare economics question. The "compensation principle" says trade is efficient if winners COULD compensate losers. But they rarely do. This is one of the central political failures of globalization -- the economic logic assumes compensation that the political system never delivers.
-:::
 
 
 <!-- ============================================================ -->
@@ -536,6 +476,34 @@ Pulling the threads together
 :::
 
 
-## Questions? {.center}
+## Looking Ahead: Wednesday's Activity
 
+**Wednesday:** Economic Crisis Cabinet
+
+You will be **economic advisors** to one of three governments facing the current global trade upheaval:
+
+:::: columns
+::: {.column width="32%"}
+![](pictures/sheinbaum.jpg){height=180}
+
+**Mexico** --- Pres. Sheinbaum --- US tariffs, Chinese competition
+:::
+::: {.column width="32%"}
+![](pictures/lee_jaemyung.jpg){height=180}
+
+**South Korea** --- Pres. Lee --- semiconductors, US-China tech war
+:::
+::: {.column width="32%"}
+![](pictures/tinubu.jpg){height=180}
+
+**Nigeria** --- Pres. Tinubu --- oil dependence, diversification
+:::
+::::
+
+**9 groups, 3 per country.** Each group advises on trade policy, domestic industry, or geopolitical strategy. Your country teams will elect a Head of State who presents a unified strategy.
+
+Check your group and country assignment on eLearning.
+
+
+## Questions? {.center}
 
