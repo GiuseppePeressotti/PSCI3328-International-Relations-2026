@@ -9,11 +9,7 @@ Course materials for PSCI 3328: Introduction to International Relations.
 
 The current syllabus is in [`syllabi/`](syllabi/).
 
-## Lecture Slides
 
-| Lecture | Topic | Link |
-|---------|-------|------|
-| 17 | International Political Economy | [View slides](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_17.html) |
-| 18 | Economic Crisis Cabinet (Activity) | [View slides](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_18.html) |
+## Slides
 
-Open the link in your browser. Use arrow keys to navigate.
+All slides are available in the correct folder (PDF up to lecture 16, htmls afterwards).
