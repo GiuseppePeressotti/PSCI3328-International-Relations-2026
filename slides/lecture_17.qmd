@@ -1,0 +1,541 @@
+---
+title: "Lecture 17: International Political Economy"
+subtitle: "PSCI 3328 — International Relations"
+author: "Giuseppe Peressotti"
+institute: "University of Texas at Dallas"
+date: "03/30/2026"
+format:
+  revealjs:
+    theme: [default, template_B_bold.scss]
+    slide-number: true
+    progress: true
+    hash: true
+    center: false
+    transition: fade
+    background-transition: fade
+    width: 1920
+    height: 1080
+    margin: 0.05
+    navigation-mode: linear
+    controls: true
+    chalkboard: true
+    footer: "PSCI 3328 — International Relations | Giuseppe Peressotti"
+    title-slide-attributes:
+      data-background-color: "#1B2838"
+---
+
+
+## Attendance {.center}
+
+![](pictures/qr.png){height=700}
+
+::: notes
+Give students about 90 seconds to scan. Start housekeeping while they do.
+:::
+
+
+## Introduction
+
+**Last week** we examined civil wars and terrorism (as well as dealing with UTD outages)
+
+**This week** we move from conflict to Political Economy.
+
+- But the core question is the same: **who gets what, and why?**
+- Different context: markets, trade, and finance instead of battlefields
+- [What surprised you most in the readings?]{.underline}
+
+::: notes
+Bridge from security to economy: both are about distribution, power, and who decides. Emphasize that IPE is not a separate world from what we've studied -- the same actors (states, groups, institutions) are at work, but through economic channels.
+:::
+
+
+## Today's Schedule
+
+1. **What Is International Political Economy?** --- The field and why it matters
+2. **Trade Politics: Who Wins, Who Loses?** --- The domestic fight over openness
+3. **Globalization and Its Discontents** --- Backlash, populism, and the future
+
+::: notes
+Three sections, building from the general framework to the specific domestic politics of trade, then zooming out to the global picture and the populist backlash.
+:::
+
+
+<!-- ============================================================ -->
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Section 1: What Is IPE?
+
+Where politics meets the economy -- and why we can't study them apart
+:::
+
+::: notes
+Transition: "Before we can talk about trade wars or financial crises, we need a framework for thinking about how politics and economics interact."
+:::
+
+
+## The Opening Puzzle
+::: {.fragment}
+[You are shopping for a new phone. The price, the brand, even whether that phone exists at all -- every step involves political decisions made by governments you never voted for. How?]{.underline}
+
+:::
+
+
+::: {.fragment}
+- Tariffs affect the price you pay
+- Trade agreements determine which companies can sell here
+- Labor laws abroad shape where the phone gets assembled
+- Currency exchange rates set the cost of imported components
+:::
+
+::: {.fragment}
+Your consumer experience is shaped by international politics at every level.
+:::
+
+::: notes
+Use this to ground IPE in students' everyday lives. The phone example works because everyone has one. Walk through each bullet to show how "the political" is embedded in seemingly mundane economic transactions.
+:::
+
+
+## What Is International Political Economy?
+
+::: {.concept-box}
+### International Political Economy (IPE)
+
+**Definition** *The study of the interplay of economics and politics in the world arena*
+
+- **Economics** = the system of producing, distributing, and using wealth
+- **Politics** = the institutions and rules governing social and economic interactions
+- These two spheres are in constant mutual interaction
+
+*Source: Frieden & Lake, International Political Economy (2000), p. 1*
+:::
+
+::: notes
+Stress that IPE goes beyond "economics for political scientists." You cannot understand markets without understanding the political rules governing them, and political power depends on economic resources.
+:::
+
+
+## Why Did IPE Emerge?
+
+Before 1970, economics and political science were studied almost entirely separately.
+
+::: {.fragment}
+- Economists built models of pure markets
+:::
+
+::: {.fragment}
+- Political scientists built theories of pure politics
+:::
+
+::: {.fragment}
+- Then the 1970s happened: oil shocks, the end of the gold-dollar standard, global recession
+:::
+
+::: {.fragment}
+- Suddenly, ignoring the connection between economics and politics became impossible
+:::
+
+::: notes
+Use fragments here to build the narrative of separation and then crisis-driven reunion. The 1970s are the pivot point.
+:::
+
+
+## The Bretton Woods Order
+
+::: {.timeline}
+1. **1944** --- Bretton Woods Agreement creates the IMF, World Bank, and a gold-backed dollar system
+2. **1947** --- GATT established to liberalize trade among Western nations
+3. **1950s--60s** --- The "Pax Americana": rapid growth under U.S. economic and military leadership
+4. **1971** --- Nixon ends the gold-dollar standard; the monetary system begins to unravel
+5. **1973--75** --- OPEC oil shock + global recession; economics and politics collide
+:::
+
+::: notes
+The Bretton Woods timeline gives students a historical anchor. Emphasize that the post-WWII order was a political construction -- not a natural outcome of market forces. The US designed it, funded it, and enforced it.
+:::
+
+## Examples?
+
+[Can you think of any recent events that illustrate the connection between economics and politics?]{.underline}
+
+
+
+## Four Ways to Think About IPE
+
+:::: columns
+::: {.column width="48%"}
+### Where do explanations come from?
+
+- **International level:** global power structures, the system itself constrains state behavior
+- **Domestic level:** interest groups, elections, and national institutions drive policy
+
+:::
+
+::: {.column width="48%"}
+### Who drives policy?
+
+- **State-centered:** leaders and institutions make autonomous decisions
+- **Society-centered:** organized groups, firms, and voters push governments to act
+
+:::
+::::
+
+::: {.fragment}
+These two dimensions create four distinct perspectives. Most real-world explanations draw on more than one.
+:::
+
+::: notes
+This is the Frieden/Lake 2x2 framework. Don't spend too long here -- present it as a map, not a destination. Students should understand there are multiple valid lenses.
+:::
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Section 2: Trade Politics
+
+Who wins, who loses, and why everyone fights about it
+:::
+
+::: notes
+Transition: "Now that we have a framework, we zoom into the most politically contentious dimension of IPE: trade. The question is not whether trade is good or bad -- but who benefits and who pays the price."
+:::
+
+
+## Trade: The Basic Insight
+
+::: {.quote-block}
+"The most famous insight from all of international economics is the proof that trade provides mutual gains: that is, when countries exchange goods and services they are all generally better off."
+
+*--- Michael J. Hiscox, "The Domestic Sources of Foreign Economic Policies," p. 52*
+:::
+
+::: {.fragment}
+So if trade makes everyone better off in aggregate, why is it one of the most politically explosive issues in every country?
+:::
+
+
+## The Answer: Trade Creates Winners and Losers
+
+::: {.concept-box}
+### Comparative Advantage
+
+**Definition** Each country benefits from specializing in goods it produces at lower *opportunity cost* relative to other countries, then trading for everything else.
+
+- Aggregate gains are real: the total pie grows
+- But specific groups within each country lose out
+- The political fight is over distribution, not efficiency
+
+*Source: Hiscox, p. 52*
+:::
+
+
+## Who Wins? Two Competing Models {auto-animate=true}
+
+**Model 1: Stolper-Samuelson (Factor Model)**
+
+- Trade benefits owners of **abundant** factors (land, labor, or capital)
+- Trade hurts owners of **scarce** factors
+- Politics divides along **class lines:** labor vs. capital, landowners vs. workers
+
+## Who Wins? Two Competing Models {auto-animate=true}
+
+**Model 1: Stolper-Samuelson (Factor Model)**
+
+- Trade benefits owners of **abundant** factors (land, labor, or capital)
+- Trade hurts owners of **scarce** factors
+- Politics divides along **class lines:** labor vs. capital, landowners vs. workers
+
+**Model 2: Ricardo-Viner (Specific Factors Model)**
+
+- What matters is not what *type* of factor you own, but *which industry* you work in
+- Export industries benefit; import-competing industries lose
+- Politics divides along **industry lines:** steel workers vs. tech workers
+
+::: notes
+This is the heart of the lecture. Build the two models sequentially with auto-animate. These two models generate different predictions about WHO will form political coalitions around trade policy.
+:::
+
+
+## Stolper-Samuelson in Plain English
+
+::: {.quote-block}
+"Trade benefits those who own the factors of production with which the economy is relatively well endowed and trade hurts owners of scarce factors."
+
+*--- Michael J. Hiscox, "The Domestic Sources of Foreign Economic Policies," p. 53*
+:::
+
+- The U.S. is **capital-abundant** and **labor-scarce** (relative to, say, China)
+- So free trade tends to benefit American capital owners and hurt American workers
+- In China, the reverse holds: workers gain, capital owners face competition
+
+
+## How Trade Preferences Form
+
+```{=html}
+<style>
+.trade-models { display: flex; gap: 40px; justify-content: center; margin-top: 10px; }
+.trade-model { flex: 1; max-width: 46%; }
+.trade-model h3 { text-align: center; font-size: 1.3em; margin-bottom: 18px; color: #1B2838; }
+.tm-box { border-radius: 10px; padding: 14px 18px; text-align: center; color: #fff; font-size: 0.95em; font-weight: 600; line-height: 1.35; }
+.tm-question { background: #E67E22; transform: rotate(0deg); border: 3px solid #1B2838; margin: 0 auto; width: 80%; }
+.tm-arrow-row { display: flex; justify-content: center; gap: 0; margin: 0; }
+.tm-arrow-down { font-size: 2em; color: #1B2838; text-align: center; line-height: 1; }
+.tm-split { display: flex; gap: 24px; justify-content: center; margin: 0; }
+.tm-split-col { flex: 1; display: flex; flex-direction: column; align-items: center; }
+.tm-green { background: #1ABC9C; border: 2px solid #1B2838; }
+.tm-red { background: #E74C3C; border: 2px solid #1B2838; }
+.tm-outcome { margin-top: 0; }
+.trade-bottom { text-align: center; margin-top: 22px; font-size: 1.1em; color: #333; }
+</style>
+
+<div class="trade-models">
+
+<div class="trade-model">
+<h3>Stolper-Samuelson (Factor Model)</h3>
+<div class="tm-box tm-question">What factor do you own?</div>
+<div class="tm-split" style="margin-top: 4px;">
+  <div class="tm-split-col">
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-green">Abundant Factor<br>(Capital in US)</div>
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-green tm-outcome">✅ SUPPORT<br>Free Trade</div>
+  </div>
+  <div class="tm-split-col">
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-red">Scarce Factor<br>(Labor in US)</div>
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-red tm-outcome">❌ OPPOSE<br>Free Trade</div>
+  </div>
+</div>
+</div>
+
+<div class="trade-model">
+<h3>Ricardo-Viner (Specific Factors)</h3>
+<div class="tm-box tm-question">Which industry are you in?</div>
+<div class="tm-split" style="margin-top: 4px;">
+  <div class="tm-split-col">
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-green">Export Sector<br>(Tech, Finance)</div>
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-green tm-outcome">✅ SUPPORT<br>Free Trade</div>
+  </div>
+  <div class="tm-split-col">
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-red">Import-Competing<br>(Steel, Textiles)</div>
+    <div class="tm-arrow-down">↓</div>
+    <div class="tm-box tm-red tm-outcome">❌ OPPOSE<br>Free Trade</div>
+  </div>
+</div>
+</div>
+
+</div>
+
+<div class="trade-bottom">Both models conclude: trade creates political winners and losers. They disagree about <em>which cleavage matters</em>.</div>
+```
+
+
+## Side by Side: Two Models of Trade Politics
+
+:::: columns
+::: {.column width="48%"}
+### Stolper-Samuelson
+
+- **Cleavage:** class-based (labor vs. capital)
+- **Coalitions:** all workers vs. all capital owners
+- **Best explains:** 19th-century British politics (Corn Laws repeal)
+- **Prediction:** in the U.S., workers oppose trade, capital owners support it
+:::
+
+::: {.column width="48%"}
+### Ricardo-Viner
+
+- **Cleavage:** industry-based (export vs. import-competing)
+- **Coalitions:** workers AND owners in the same industry align together
+- **Best explains:** modern trade politics (steel workers + steel firms vs. tech)
+- **Prediction:** trade politics fractures by sector, not class
+:::
+::::
+
+::: notes
+Emphasize that most current research treats Ricardo-Viner (specific factors) as the more accurate model for contemporary politics. But Stolper-Samuelson still captures important dynamics, especially for broad factor categories like "college-educated vs. non-college-educated."
+:::
+
+
+## Discussion
+
+::: {.discuss}
+Think about your own family or community. Would free trade with China benefit or hurt the people you know? Would they divide along class lines (Stolper-Samuelson) or industry lines (Ricardo-Viner)?
+:::
+
+::: notes
+Pair discussion: 2 minutes, then share. This question makes the models personal. Listen for whether students naturally think in factor or industry terms -- that tells you which model resonates more with their experience.
+:::
+
+
+## Historical Case: The Smoot-Hawley Tariff, 1930
+
+In 1930, the U.S. Congress passed the Smoot-Hawley Tariff Act, altering duties on over 20,000 items. The Senate alone made 1,253 amendments to the original House bill (Hiscox, p. 69).
+
+- **Protectionist log-rolling:** each legislator traded votes to protect their district's industry
+- **Retaliation was swift:** other countries raised their own tariffs
+- **Result:** world trade collapsed, deepening the Great Depression
+- **Legacy:** Congress delegated trade authority to the President (the RTAA of 1934) to prevent it from happening again
+
+::: notes
+Smoot-Hawley is the canonical example of what happens when domestic trade politics goes unchecked. The institutional reform -- shifting trade authority to the executive -- is a key lesson about how institutions shape outcomes. Hiscox covers this in detail on pp. 68-69.
+:::
+
+
+## Institutions Shape Who Wins
+
+::: {.quote-block}
+"There is really no such thing as the 'national interest' when it comes to foreign economic policy -- or, rather there is no one national interest, there are many."
+
+*--- Michael J. Hiscox, "The Domestic Sources of Foreign Economic Policies," p. 72*
+:::
+
+- **Who votes** matters: expanding suffrage changed trade politics in Britain and the U.S.
+- **Electoral systems** matter: proportional representation reduces protectionist lobbying
+- **Who sets the agenda** matters: delegating trade authority to the executive reduced log-rolling
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Section 3: Globalization and Its Discontents
+
+Why free trade keeps winning the economic argument but losing the political one
+:::
+
+
+## The Everyday Impact
+
+[How many of you checked the price of groceries this week? Gas? Rent?]{.underline}
+
+- When the price of imported goods rises (due to tariffs), **consumers pay more**
+- When a factory closes because production moved overseas, **workers lose jobs**
+- Both effects are real, but they hit different people
+- Trade policy is a fight between **concentrated losers** (specific industries) and **diffuse winners** (all consumers paying lower prices)
+
+::: notes
+This is the collective action problem applied to trade. The losers are concentrated, organized, and vocal. The winners are dispersed, unorganized, and often unaware they're benefiting. This asymmetry drives protectionist politics.
+:::
+
+
+## Contemporary Case: The U.S.-China Trade War
+
+Beginning in 2018, the Trump administration imposed escalating rounds of tariffs that by 2019 covered roughly $360 billion in Chinese imports. China retaliated with tariffs on U.S. agricultural exports.
+
+- **Winners:** some U.S. steel and aluminum producers saw short-term gains
+- **Losers:** U.S. farmers lost access to China's soybean market; consumers faced higher prices on electronics, furniture, clothing
+- **Bipartisan continuity:** the Biden administration kept most tariffs in place
+- **2025 escalation:** tariffs have expanded under the second Trump administration
+
+::: notes
+The trade war is the best contemporary example of trade politics in action. Note the bipartisan consensus -- both parties kept the tariffs, suggesting the political logic (concentrated interest group pressure) overrides the economic logic (aggregate welfare loss). Ask students: does this match Hiscox's framework?
+:::
+
+
+## Rodrik's Warning: Globalization Fuels Populism
+
+Dani Rodrik (2020) identifies **four channels** through which globalization drives populist politics:
+
+::: {.fragment}
+- **(A) Direct economic dislocation:** workers who lose jobs demand anti-elite policies
+:::
+
+::: {.fragment}
+- **(B) Identity activation:** economic insecurity sharpens "us vs. them" divisions
+:::
+
+::: {.fragment}
+- **(C) Party repositioning:** politicians adopt more populist platforms in response to economic shocks
+:::
+
+::: {.fragment}
+- **(D) Strategic distraction:** political candidates inflame cultural and identity tensions to shift voters' attention from economic issues
+:::
+
+::: notes
+Rodrik is the recommended reading. Don't go deep -- present the four channels as a framework for understanding WHY trade creates political instability, not just economic disruption. Channel D is the most provocative: politicians deliberately use cultural wedge issues to redirect anger that has economic roots.
+:::
+
+
+## The Backlash Goes Global
+
+Bonifai, Nooruddin, and Rudra (2021) add a twist: the globalization backlash is spreading to the developing world too.
+
+- In **Mexico**, support for free trade among low-skilled workers dropped by **20 percentage points** (2002--2018)
+- In **Brazil**, support fell from 84% to 68%
+- The promise was that trade would bring widespread upward mobility
+- The reality: gains concentrated among the already skilled
+
+::: {.fragment}
+The anger in developing countries mirrors the anger in rich ones, for the same structural reason: **trade benefits are unevenly distributed.**
+:::
+
+::: notes
+This is from the recommended Bonifai et al. Foreign Affairs piece. The key insight for students: the populist backlash against trade isn't just a rich-country phenomenon. If developing countries also turn against openness, the entire global trading system could fragment.
+:::
+
+
+## The Student-Accessible Case: Your Job Market
+
+[After you graduate, will globalization help or hurt your job prospects?]{.underline}
+
+
+::: {.fragment}
+- If you enter **tech, finance, or consulting:** globalization expands your market
+- If you enter **manufacturing, clerical work, or customer service:** automation and offshoring may threaten your position
+- Your college degree is itself a factor endowment that shapes your trade preferences
+- The Stolper-Samuelson model predicts that **high-skilled workers in the U.S. benefit from trade openness**
+::
+
+::: notes
+Make it personal. The job market example is the student-accessible analogy. Most students in the room are investing in human capital (education) -- that makes them likely winners from globalization. But not everyone in their community is in the same position.
+:::
+
+
+
+
+## Discussion
+
+::: {.discuss}
+If trade makes the aggregate economy better off but harms specific groups, does the government have an obligation to compensate the losers? Who should pay for that?
+:::
+
+::: notes
+This connects to the basic welfare economics question. The "compensation principle" says trade is efficient if winners COULD compensate losers. But they rarely do. This is one of the central political failures of globalization -- the economic logic assumes compensation that the political system never delivers.
+:::
+
+
+<!-- ============================================================ -->
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Synthesis
+
+Pulling the threads together
+:::
+
+
+## Summary
+
+::: {.takeaway}
+**Today's key insights:**
+
+- IPE studies how economics and politics shape each other 
+- Trade produces aggregate gains but creates specific winners and losers, and that distributional conflict drives politics
+- The Stolper-Samuelson model predicts class-based trade coalitions; the Ricardo-Viner model predicts industry-based coalitions
+- Institutions (electoral systems, legislative rules, executive authority) determine which groups get their way
+- Globalization's uneven gains are fueling populist backlash in both rich and developing countries
+:::
+
+
+## Questions? {.center}
+
+

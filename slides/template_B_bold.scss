@@ -1,0 +1,567 @@
+/*-- scss:defaults --*/
+
+// =============================================================================
+// TEMPLATE B: BOLD CONTRAST
+// High-impact, confident, modern. Bold color blocks and strong contrasts.
+// =============================================================================
+
+// Color palette
+$color-dark:        #1B2838;   // deep navy
+$color-warm:        #E67E22;   // amber/orange
+$color-cool:        #1ABC9C;   // teal
+$color-bg:          #FFFFFF;
+$color-bg-dark:     #1B2838;
+$color-text:        #2C3E50;
+$color-text-light:  #FFFFFF;
+$color-muted:       #ECF0F1;
+$color-muted-dark:  #BDC3C7;
+$color-light-text:  #7F8C8D;
+
+// Typography
+$font-family-sans-serif: "Inter", "Nunito Sans", "Segoe UI", Roboto, sans-serif;
+$presentation-heading-font: "Montserrat", "Poppins", "Segoe UI", sans-serif;
+$presentation-heading-color: $color-dark;
+$presentation-font-size-root: 36px;
+$presentation-line-height: 1.5;
+
+// Headings
+$presentation-h1-font-size: 2.4em;
+$presentation-h2-font-size: 1.5em;
+$presentation-h3-font-size: 1.15em;
+$presentation-heading-font-weight: 700;
+
+// Slide layout
+$body-bg: $color-bg;
+$body-color: $color-text;
+$link-color: $color-cool;
+$link-color-hover: $color-warm;
+
+$presentation-title-slide-text-align: left;
+
+
+/*-- scss:rules --*/
+
+// ---- Google Fonts import ----
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&family=Inter:wght@300;400;500;600;700&family=Nunito+Sans:wght@300;400;600;700&display=swap');
+
+// ---- Global ----
+.reveal {
+  font-family: $font-family-sans-serif;
+  color: $color-text;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+// ---- Title slide ----
+.reveal .slides section.title-slide {
+  background: linear-gradient(135deg, $color-dark 0%, lighten($color-dark, 12%) 100%);
+  color: $color-text-light;
+  padding: 2em;
+
+  h1 {
+    font-size: 2.6em;
+    font-weight: 800;
+    color: $color-text-light;
+    margin-bottom: 0.1em;
+    line-height: 1.15;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 120px;
+      height: 5px;
+      background: $color-warm;
+      margin-top: 0.4em;
+      border-radius: 3px;
+    }
+  }
+
+  .subtitle {
+    font-size: 1.15em;
+    color: rgba(white, 0.8);
+    font-weight: 300;
+    margin-top: 0.3em;
+  }
+
+  .author, .date, .institute {
+    font-size: 0.85em;
+    color: rgba(white, 0.65);
+    margin-top: 0.15em;
+  }
+}
+
+// ---- Slide headings ----
+.reveal h1 {
+  font-family: $presentation-heading-font;
+  font-weight: 800;
+  color: $color-dark;
+  letter-spacing: -0.02em;
+}
+
+.reveal h2 {
+  font-family: $presentation-heading-font;
+  font-weight: 700;
+  color: $color-dark;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.6em;
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    background: $color-warm;
+    border-radius: 2px;
+  }
+}
+
+.reveal h3 {
+  font-family: $presentation-heading-font;
+  color: $color-warm;
+  font-weight: 700;
+}
+
+// ---- Section divider slides ----
+section.section-slide {
+  h1 {
+    color: white !important;
+    font-size: 2.8em;
+    font-weight: 800;
+    text-align: center;
+    position: relative;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 100px;
+      height: 5px;
+      background: $color-warm;
+      margin: 0.4em auto 0;
+      border-radius: 3px;
+    }
+  }
+
+  p {
+    color: rgba(white, 0.7) !important;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 300;
+  }
+}
+
+// ---- Lists ----
+.reveal ul {
+  list-style-type: none;
+  padding-left: 1.3em;
+
+  li {
+    margin-bottom: 0.4em;
+    line-height: 1.45;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: -1.1em;
+      top: 0.55em;
+      width: 8px;
+      height: 8px;
+      background: $color-warm;
+      border-radius: 2px;
+      transform: rotate(45deg);
+    }
+  }
+
+  ul li::before {
+    background: $color-cool;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    transform: none;
+  }
+}
+
+.reveal ol {
+  padding-left: 1.5em;
+
+  li {
+    margin-bottom: 0.4em;
+    padding-left: 0.3em;
+
+    &::marker {
+      color: $color-warm;
+      font-weight: 700;
+      font-family: $presentation-heading-font;
+    }
+  }
+}
+
+// ---- Progress bar ----
+.reveal .progress {
+  height: 5px;
+  color: $color-warm;
+}
+
+.reveal .progress span {
+  background: $color-warm;
+}
+
+// ---- Slide number ----
+.reveal .slide-number {
+  font-size: 0.55em;
+  color: $color-light-text;
+  background: transparent;
+  font-family: $presentation-heading-font;
+  font-weight: 600;
+}
+
+// ============================================================================
+// CUSTOM SLIDE-TYPE CLASSES
+// ============================================================================
+
+// ---- Concept Box ----
+.concept-box {
+  background: $color-muted;
+  border-left: 5px solid $color-cool;
+  border-radius: 6px;
+  padding: 1.1em 1.5em;
+  margin: 0.8em 0;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+
+  h3, strong:first-child {
+    color: $color-dark;
+    font-family: $presentation-heading-font;
+    font-weight: 700;
+    font-size: 1.1em;
+    margin-bottom: 0.25em;
+    display: block;
+  }
+
+  p, li {
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+
+  ul li::before {
+    background: $color-cool;
+  }
+}
+
+// ---- Quote Block ----
+.quote-block {
+  background: linear-gradient(135deg, $color-muted 0%, darken($color-muted, 3%) 100%);
+  border-left: 6px solid $color-warm;
+  border-radius: 8px;
+  padding: 1.5em 2em;
+  margin: 1em 0;
+  position: relative;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.06);
+
+  &::before {
+    content: "\201C";
+    font-size: 5em;
+    color: rgba($color-warm, 0.15);
+    position: absolute;
+    top: -0.15em;
+    left: 0.2em;
+    font-family: Georgia, serif;
+    line-height: 1;
+  }
+
+  p {
+    font-size: 1.2em;
+    font-style: italic;
+    line-height: 1.55;
+    color: $color-dark;
+    margin-bottom: 0.5em;
+    padding-left: 0.4em;
+  }
+
+  .attribution, p:last-child:not(:first-child) {
+    font-style: normal;
+    font-size: 0.8em;
+    color: $color-warm;
+    text-align: right;
+    font-weight: 700;
+    font-family: $presentation-heading-font;
+  }
+}
+
+// ---- Discussion Prompt ----
+.discuss {
+  background: $color-warm;
+  color: white;
+  border-radius: 10px;
+  padding: 1.4em 2em;
+  margin: 1em 0;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba($color-warm, 0.35);
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: "DISCUSSION";
+    display: block;
+    font-size: 0.55em;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    color: rgba(white, 0.7);
+    margin-bottom: 0.5em;
+    font-weight: 700;
+    font-family: $presentation-heading-font;
+  }
+
+  &::after {
+    content: "?";
+    position: absolute;
+    right: 0.2em;
+    bottom: -0.15em;
+    font-size: 6em;
+    color: rgba(white, 0.1);
+    font-weight: 800;
+    font-family: $presentation-heading-font;
+    line-height: 1;
+  }
+
+  p, h3 {
+    font-size: 1.3em;
+    font-weight: 700;
+    color: white;
+    line-height: 1.35;
+    font-family: $presentation-heading-font;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+// ---- Real-World Example ----
+.real-world {
+  background: white;
+  border: 2px solid $color-cool;
+  border-radius: 8px;
+  padding: 1.1em 1.5em;
+  margin: 0.8em 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  position: relative;
+
+  &::before {
+    content: "REAL-WORLD";
+    display: inline-block;
+    font-size: 0.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: white;
+    background: $color-cool;
+    padding: 0.2em 0.8em;
+    border-radius: 3px;
+    font-weight: 700;
+    font-family: $presentation-heading-font;
+    margin-bottom: 0.6em;
+  }
+
+  h3, strong:first-child {
+    color: $color-dark;
+    font-weight: 700;
+    font-size: 1em;
+    margin-bottom: 0.3em;
+    display: block;
+  }
+
+  p, li {
+    font-size: 0.88em;
+  }
+}
+
+// ---- Takeaway ----
+.takeaway {
+  background: linear-gradient(135deg, $color-dark 0%, lighten($color-dark, 10%) 100%);
+  color: white;
+  border-radius: 8px;
+  padding: 1.1em 1.5em;
+  margin: 0.8em 0;
+  box-shadow: 0 4px 18px rgba($color-dark, 0.4);
+  border-left: 6px solid $color-warm;
+
+  h3, strong {
+    color: $color-warm;
+    font-weight: 700;
+  }
+
+  p, li {
+    color: rgba(white, 0.92);
+    font-size: 0.92em;
+  }
+
+  &::before {
+    content: "\2192  KEY TAKEAWAY";
+    display: block;
+    font-size: 0.55em;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: $color-warm;
+    font-weight: 700;
+    font-family: $presentation-heading-font;
+    margin-bottom: 0.35em;
+  }
+
+  ul li::before {
+    background: $color-warm;
+  }
+}
+
+// ---- Timeline ----
+.timeline {
+  padding-left: 0.5em;
+
+  ol {
+    list-style: none;
+    padding-left: 2.5em;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.7em;
+      top: 0;
+      bottom: 0;
+      width: 4px;
+      background: linear-gradient($color-cool, $color-warm);
+      border-radius: 2px;
+    }
+
+    li {
+      position: relative;
+      margin-bottom: 0.9em;
+      padding-left: 0.8em;
+
+      &::before {
+        content: "";
+        position: absolute;
+        left: -1.95em;
+        top: 0.4em;
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        background: $color-warm;
+        border: 4px solid white;
+        box-shadow: 0 0 0 3px $color-warm;
+      }
+
+      &::marker {
+        content: "";
+      }
+
+      strong {
+        color: $color-dark;
+        font-family: $presentation-heading-font;
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+// ---- Image Credit ----
+.img-credit {
+  font-size: 0.5em;
+  color: $color-light-text;
+  text-align: right;
+  font-style: italic;
+  margin-top: 0.2em;
+}
+
+// ---- Footer ----
+.reveal .footer {
+  font-size: 0.45em;
+  color: $color-light-text;
+  font-family: $presentation-heading-font;
+  letter-spacing: 0.04em;
+}
+
+// ---- Code blocks ----
+.reveal pre {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+  border-left: 5px solid $color-cool;
+  background: $color-dark;
+}
+
+.reveal code {
+  font-size: 0.85em;
+  color: $color-cool;
+}
+
+// ---- Fragment transitions ----
+.reveal .fragment.fade-in-then-semi-out.visible:not(.current-fragment) {
+  opacity: 0.35;
+}
+
+// ---- Strong / emphasis ----
+.reveal strong {
+  color: $color-dark;
+  font-weight: 700;
+}
+
+.reveal em {
+  color: $color-light-text;
+}
+
+// ---- Blockquote fallback ----
+.reveal blockquote {
+  border-left: 5px solid $color-warm;
+  padding: 0.8em 1.2em;
+  background: $color-muted;
+  font-style: italic;
+  border-radius: 6px;
+  margin: 0.8em 0;
+
+  p { margin: 0; }
+}
+
+// ---- Table styling ----
+.reveal table {
+  border-collapse: collapse;
+  margin: 1em auto;
+  border-radius: 6px;
+  overflow: hidden;
+
+  th {
+    background: $color-dark;
+    color: white;
+    font-weight: 700;
+    padding: 0.6em 1em;
+    font-size: 0.85em;
+    font-family: $presentation-heading-font;
+  }
+
+  td {
+    padding: 0.45em 1em;
+    border-bottom: 1px solid $color-muted;
+    font-size: 0.85em;
+  }
+
+  tr:nth-child(even) td {
+    background: rgba($color-muted, 0.5);
+  }
+
+  tr:hover td {
+    background: rgba($color-cool, 0.08);
+  }
+}
+
+// ---- Mermaid diagram styling ----
+.mermaid {
+  margin: 1em auto;
+  text-align: center;
+}
+
+// ---- Two-column layout refinements ----
+.columns {
+  display: flex;
+  gap: 2.5em;
+  align-items: flex-start;
+}
