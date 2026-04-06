@@ -1,0 +1,147 @@
+---
+title: "Lecture 20: International Law on Trial"
+subtitle: "PSCI 3328 — International Relations"
+author: "Giuseppe Peressotti"
+institute: "University of Texas at Dallas"
+date: "04/08/2026"
+format:
+  revealjs:
+    theme: [default, template_B_bold.scss]
+    slide-number: true
+    progress: true
+    hash: true
+    center: false
+    transition: fade
+    background-transition: fade
+    width: 1920
+    height: 1080
+    margin: 0.05
+    navigation-mode: linear
+    controls: true
+    chalkboard: true
+    footer: "PSCI 3328 — International Relations | Giuseppe Peressotti"
+    title-slide-attributes:
+      data-background-color: "#1B2838"
+---
+
+
+## Attendance {.center}
+
+![](pictures/qr.png){height=700}
+
+
+
+## Recap + Today
+
+Monday: why international law and organizations exist, and why powerful states sometimes ignore them.
+
+**The big tension:** states follow international law most of the time, but when it conflicts with their interests, they often don't. So does it actually *work*?
+
+Today we delve into **six cases from the last year** (related to some institution in one way or another)
+
+
+## Today's Activity
+
+**International Law on Trial:** six articles, six institutions, six verdicts.
+
+1. Each pair of groups gets the same article
+2. Read together, discuss, reach a verdict
+3. One group presents, the other jumps in, challenges, or adds
+4. Class discussion
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# The Six Cases
+:::
+
+
+## The Articles
+
+| Institution | Article |
+|-------------|---------|
+| **ICC** | "Duterte, Netanyahu, and Putin: The ICC's Power Play" (*Opinio Juris*, Apr 2025) |
+| **ICJ** | "On Palestine and the Death of the West's International Legal Order" (*EJIL:Talk!*, Nov 2025) |
+| **UN Security Council** | "UN Security Council: Reform or Irrelevance" (*CIVICUS*, Jan 2026) |
+| **WTO** | "A Year After 'Liberation Day': The Costs of Trump's Tariffs" (*CFR*, Apr 2026) |
+| **WHO** | "The U.S. Has Exited the WHO: What That Means" (*U.S. News*, Jan 2026) |
+| **Climate Law** | "A Landmark Court Ruling Looms Over U.S. Absence at COP30" (*Inside Climate News*, Nov 2025) |
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Phase 1: Read and Discuss
+
+20 minutes
+:::
+
+
+## Your Discussion Questions
+
+Work through these as a group:
+
+1. **What is actually happening?** Summarize the situation in 2–3 sentences. Who are the key actors, and what is at stake?
+
+2. **Is the institution doing its job?** What was it supposed to accomplish? Is this a failure, a partial success, or something more complicated?
+
+3. **Who bears the cost?** If this institution keeps failing who gets hurt? Does that matter to the people making decisions?
+
+4. **What does this have to do with you?** Is there anything in this article that connects to your life, your community, or the world you expect to inherit?
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Phase 2: Prepare Your Verdict
+
+10 minutes
+:::
+
+
+## Presentation Format
+
+One group per article presents — **2–3 minutes.**
+
+- **What happened?** 
+- **Your verdict:** is there an institution involved? Is this institution working, failing, or somewhere in between?
+- **What surprised you or made you think?** 
+
+Discussion on, especially with paired group
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Phase 3: Verdicts
+:::
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Phase 4: Class Discussion
+:::
+
+
+## Cross-Case Discussion
+
+[Looking across all six cases: is there a common thread? Or is each failure its own story?]{.underline}
+
+- Henkin said states follow international law "almost all of the time." Do these six articles support that? Or do the exceptions matter more than the rule?
+
+- Which of these institutions would you most want to fix? What's the one change that would make the biggest difference?
+
+- [Does international law need to be enforced to matter? Can rules shape behavior even when powerful states ignore them?]{.underline}
+
+
+
+## Next Up
+
+- Draft deadline! Beware.
+
+- Last few classes, presentations at the end of the month!
+
+
+## Questions? {.center}

@@ -1,0 +1,425 @@
+---
+title: "Lecture 19: International Organizations and International Law"
+subtitle: "PSCI 3328 — International Relations"
+author: "Giuseppe Peressotti"
+institute: "University of Texas at Dallas"
+date: "04/06/2026"
+format:
+  revealjs:
+    theme: [default, template_B_bold.scss]
+    slide-number: true
+    progress: true
+    hash: true
+    center: false
+    transition: fade
+    background-transition: fade
+    width: 1920
+    height: 1080
+    margin: 0.05
+    navigation-mode: linear
+    controls: true
+    chalkboard: true
+    footer: "PSCI 3328 — International Relations | Giuseppe Peressotti"
+    title-slide-attributes:
+      data-background-color: "#1B2838"
+---
+
+
+## Attendance {.center}
+
+![](pictures/qr.png){height=700}
+
+
+## Introduction
+
+- Reminder: deadline of first draft by this Friday! Link is up on eLearning
+
+- This week: we deal with International Organizations and International Law
+
+  - When there is no world government, how do 193 sovereign states coordinate trade, monetary policy, security, or the environment?
+  - The answer: **institutions and law**: deliberately constructed frameworks for cooperation
+
+## Today's Schedule
+
+1. **Why Do International Institutions Exist?**: Keohane's functional theory
+2. **International Organizations in Practice**:  Types, functions, and the UN system
+3. **International Law: Rules Without a Ruler?**: Sources, enforcement, and the limits of legalism
+
+# What did you think about the readings?
+
+
+<!-- ============================================================ -->
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Section 1: Why Do Institutions Exist?
+
+:::
+
+
+## The Opening Puzzle
+
+[If anarchy means no one can force states to cooperate, why do over 5,000 international organizations exist today?]{.underline}
+
+- There are currently about 300 intergovernmental organizations and thousands of international NGOs
+- States voluntarily join, fund, and comply with rules that constrain their own behavior
+- Realists say institutions are just tools of the powerful. Liberals say they independently promote cooperation.
+
+::: {.fragment}
+Who is right? And does it matter?
+:::
+
+
+## Recall: The Problem of Cooperation
+
+We already have the tools to understand this puzzle. Remember Week 3 (anarchy) and Week 7 (causes of war):
+
+- **Anarchy** means no authority above states to enforce agreements
+- **Commitment problems** prevent states from credibly promising to follow through
+- **Uncertainty** about others' intentions makes cooperation risky
+- **Transaction costs** make negotiating agreements expensive and slow
+
+::: {.fragment}
+Keohane's argument: international institutions exist precisely to address these problems.
+:::
+
+
+## What Is an International Regime?
+
+::: {.concept-box}
+### International Regime
+
+**Definition:** Sets of implicit or explicit principles, norms, rules, and decision-making procedures around which actors' expectations converge in a given area of international relations.
+
+- **Principles:** beliefs about fact, causation, and rectitude (e.g., free trade promotes prosperity)
+- **Norms:** standards of behavior defined in terms of rights and obligations (e.g., states should not manipulate exchange rates)
+- **Rules:** specific prescriptions or proscriptions for action (e.g., most-favored-nation treatment under GATT)
+- **Procedures:** how collective decisions get made (e.g., voting rules in the UN General Assembly)
+
+*See Krasner (1983), p. 2, in Keohane, After Hegemony, p. 57*
+:::
+
+
+## Summarizing Keohane's Theory
+
+::: {.quote-block}
+"International regimes can facilitate cooperation by reducing uncertainty. Like international law, broadly defined, their function is 'to make human actions conform to predictable patterns so that contemplated actions can go forward with some hope of achieving a rational relationship between means and ends.'"
+
+*--- Keohane, After Hegemony (1984), p. 97 ( from Barkun, 1968)*
+:::
+
+
+## Keohane's Functional Theory {auto-animate=true}
+
+Why do rational, self-interested states create regimes? Keohane identifies three core functions:
+
+**1. Reduce transaction costs**
+
+- Regimes make it cheaper for governments to negotiate agreements
+- Instead of starting from scratch each time, existing rules and organizations provide a framework
+- Side-payments and issue-linkage become easier within a regime
+
+## Keohane's Functional Theory {auto-animate=true}
+
+Why do rational, self-interested states create regimes? Keohane identifies three core functions:
+
+**1. Reduce transaction costs**
+
+- Regimes make it cheaper for governments to negotiate agreements
+
+**2. Reduce uncertainty**
+
+- Regimes provide information about what other states intend and what they have done
+- They set standards against which behavior can be measured
+- They create forums where officials develop informal relationships and trust
+
+## Keohane's Functional Theory {auto-animate=true}
+
+Why do rational, self-interested states create regimes? Keohane identifies three core functions:
+
+**1. Reduce transaction costs**
+
+**2. Reduce uncertainty**
+
+**3. Raise the cost of cheating**
+
+- Regimes link issues together: defecting on trade affects your reputation on security
+- Reputation becomes a valuable asset: breaking rules damages it across many domains
+- The logic of iterated Prisoners' Dilemma: cheating has long-term costs
+
+## Keohane's Functional Theory
+
+[Is this convincing?]{.underline}
+
+
+## The Campus Analogy
+
+*Think about this classroom. There is no police officer enforcing attendance, participation, or submissions.*
+
+- You follow the syllabus because violating it has consequences: your grade, your reputation, your relationship with the professor
+- Those consequences work because we interact repeatedly over the semester (iterated game)
+- The syllabus is a regime: it sets expectations, provides information, and raises the cost of defection
+
+::: {.fragment}
+International institutions work the same way: through reputation, repeated interaction, and shared expectations, not through coercive enforcement.
+:::
+
+
+## Discussion
+
+::: {.discuss}
+Realists argue that institutions only matter when powerful states want them to. If that is true, does Keohane's theory still have value? Can institutions matter independently of the power behind them?
+:::
+
+
+<!-- ============================================================ -->
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Section 2: International Organizations
+
+Types, functions, and the UN system
+:::
+
+
+## Types of International Organizations
+
+:::: columns
+::: {.column width="48%"}
+### Intergovernmental Organizations (IGOs)
+
+- Created by states, for states
+- Membership based on sovereignty
+- Examples: UN, WTO, NATO, EU, African Union
+- Funded by member-state contributions
+- Decision-making controlled by governments
+:::
+
+::: {.column width="48%"}
+### International NGOs (INGOs)
+
+- Created by private actors across borders
+- Membership is non-governmental: individuals, groups, companies
+- Examples: Doctors Without Borders, ICRC, Greenpeace, Amnesty International
+- Funded by donations, grants, memberships
+- Influence through advocacy, expertise, and norm entrepreneurship
+:::
+::::
+
+::: {.fragment}
+A third category: **hybrid organizations** mix state and non-state members (e.g., the International Labour Organization includes governments, employers, and workers).
+:::
+
+
+## Why Do States Create IGOs?
+
+Three core functions that match Keohane's theory:
+
+- **Solve technical problems:** the Universal Postal Union coordinates mail delivery across 192 countries; the International Telecommunication Union allocates radio frequencies
+- **Overcome collective action problems:** the IMF provides emergency lending that no single state would offer alone; the IEA coordinates oil-sharing in crises
+- **Provide forums for signaling and negotiation:** UN General Assembly debates let states publicly commit to positions; WTO dispute settlement resolves trade conflicts
+
+
+## Four Design Choices for Any IO
+
+Every international organization faces four structural decisions:
+
+1. **Mandate:** What problem does it solve?
+2. **Membership:** Who gets in and who decides?
+3. **Decision-making:** Equal votes? Weighted votes? Consensus? Vetoes?
+4. **Enforcement:** Naming and shaming? Economic sanctions? Military force?
+
+::: {.fragment}
+Each choice involves a tradeoff between **effectiveness** and **legitimacy**.
+:::
+
+
+## The United Nations System
+
+Founded by 51 nations after WWII, the UN was designed to prevent another world war through collective security. Today it has 193 members.
+
+- **General Assembly:** every state gets one vote; resolutions are non-binding but politically significant
+- **Security Council:** 5 permanent members (US, UK, France, Russia, China) with veto power, plus 10 rotating members
+- **Specialized agencies:** WHO, UNESCO, UNICEF, UNHCR, each with a specific technical mandate
+- **Annual budget:** about $3.7 billion (less than the NYPD's roughly $6 billion operating budget)
+
+
+## The Security Council Problem
+
+The P5 veto is the UN's most controversial feature:
+
+- Any single permanent member can block a Security Council resolution
+- During the Cold War, the US and USSR vetoed each other's proposals constantly
+- Russia has used its veto to block action on Syria, Ukraine, and other crises where it has direct interests
+- The US has used its veto more than any other P5 member, frequently to shield Israel from resolutions on settlements and military operations
+- Result: the Security Council is paralyzed on precisely the conflicts that matter most
+
+[If the five most powerful states in 1945 still control the body that authorizes military force in 2026, is the UN legitimate?]{.underline}
+
+
+## The Decolonization Critique
+
+Ryder et al. (2020) make a provocative argument: the only way to truly reform the UN is to **abolish the permanent five**.
+
+- In 1945, four of the five P5 members were colonial powers or had colonial interests
+- Since then, 80 former colonies have gained independence and joined the UN
+- The P5 now represent just 3% of UN member states but hold absolute veto power
+- Ryder et al. propose abolishing permanent seats entirely: all 15 seats become temporary five-year terms, with vetoes requiring at least two members acting together
+
+::: {.fragment}
+The counter-argument: without the veto, great powers would never have joined. The UN exists precisely because it gave them disproportionate influence.
+:::
+
+
+## Discussion
+
+::: {.discuss}
+Should the UN Security Council's permanent membership be reformed? If so, who deserves a seat -- and who gets to decide? What would happen if you abolished the veto entirely?
+:::
+
+
+<!-- ============================================================ -->
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Section 3: International Law
+
+Rules without a ruler -- does it work?
+:::
+
+
+## What Is International Law?
+
+::: {.concept-box}
+### International Law
+
+**Definition:** A body of rules and norms that regulate conduct between states, international organizations, and in some cases individuals.
+
+- **Treaties:** formal written agreements between states (e.g., the UN Charter, UNCLOS, the Geneva Conventions)
+- **Customary international law:** long-standing state practice accepted as legally binding (e.g., diplomatic immunity)
+- **General principles:** fundamental legal concepts shared across legal systems (e.g., the principle of good faith)
+- **Judicial decisions:** rulings by international courts that interpret and develop the law
+
+*Sources: Traisbach, "International Law" (pp. 63–64); CFR, "What Is International Law?"*
+:::
+
+
+## Two Views of International Law
+
+:::: columns
+::: {.column width="48%"}
+### Skeptics (Realists)
+
+- International law is just politics by other means
+- States follow it only when convenient
+- No enforcement = no real law
+- Powerful states ignore it when their interests demand it
+- The U.S. invaded Iraq in 2003 despite lacking Security Council authorization
+:::
+
+::: {.column width="48%"}
+### Defenders (Liberals / Constructivists)
+
+- States comply with international law the vast majority of the time
+- Law shapes expectations and defines legitimate behavior
+- Compliance is driven by reputation and reciprocity, not coercion
+- Violations are notable precisely because they are exceptions
+- International law changes how states *think about* their interests
+:::
+::::
+
+
+## A Famous Claim
+
+::: {.quote-block}
+"Almost all nations observe almost all principles of international law and almost all of their obligations almost all of the time."
+
+*--- Louis Henkin, How Nations Behave (1979), p. 47*
+:::
+
+This quote has been called "the sentence that launched a thousand articles" in international law scholarship. Henkin's hedged optimism captures the paradox: compliance is remarkably high, even without enforcement.
+
+
+## How Is International Law Enforced?
+
+Without a world police force, enforcement depends on decentralized mechanisms:
+
+::: {.fragment}
+- **International Court of Justice (ICJ):** the UN's court, settles disputes between states -- but only with their consent
+:::
+
+::: {.fragment}
+- **International Criminal Court (ICC):** prosecutes individuals for genocide, war crimes, crimes against humanity -- but major powers (US, Russia, China) have not joined
+:::
+
+::: {.fragment}
+- **UN Security Council:** can authorize sanctions or military force -- but subject to the P5 veto
+:::
+
+::: {.fragment}
+- **Reputation and reciprocity:** the mechanism Keohane emphasized -- states comply because breaking rules carries long-term costs
+:::
+
+
+## The South China Sea: International Law on Trial
+
+In 2016, a tribunal under the UN Convention on the Law of the Sea (UNCLOS) ruled overwhelmingly in favor of the Philippines and against China's claims to most of the South China Sea.
+
+- The tribunal declared China's "nine-dash line" claim **invalid under international law**
+- It ruled that all disputed features in the Spratly Islands are reefs or rocks, not islands -- drastically limiting China's maritime claims
+- **China rejected the ruling entirely** and has continued building military installations on artificial islands
+- As Rapp-Hooper (2016) writes: "international law has no simple enforcement mechanism"
+
+
+## The ICC and Ukraine: A Test Case
+
+In March 2023, the International Criminal Court issued arrest warrants for Russian President Vladimir Putin and his children's rights commissioner for the war crime of unlawful deportation of children from occupied areas of Ukraine to Russia.
+
+- Russia is not a member of the ICC and does not recognize its jurisdiction
+- ICC member states are obligated to arrest him if he enters their territory -- but Mongolia failed to act when he visited in 2024
+- Yet the warrant carries symbolic weight: it brands a sitting head of state as an accused war criminal
+- **The question:** does an arrest warrant that cannot be reliably executed still matter?
+
+::: {.fragment}
+The warrant constrains Putin's travel, shapes the diplomatic narrative, and establishes a precedent: heads of state are not immune from international criminal accountability.
+:::
+
+
+## Discussion
+
+::: {.discuss}
+China ratified UNCLOS but rejected the tribunal's ruling on the South China Sea. Russia ignores the ICC. The US invaded Iraq without Security Council authorization. If the most powerful states routinely violate international law, does it serve any purpose at all?
+:::
+
+
+
+<!-- ============================================================ -->
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Synthesis
+
+What holds without a world government?
+:::
+
+
+## Summary
+
+::: {.takeaway}
+**Today's key insights:**
+
+- Keohane's functional theory explains why self-interested states create institutions: to reduce transaction costs, lower uncertainty, and raise the cost of cheating
+- International organizations range from technical bodies (UPU) to the UN system, each facing tradeoffs between effectiveness and legitimacy
+- The UN Security Council's P5 veto reflects 1945 power realities and faces growing demands for reform
+- International law works through treaties, custom, and judicial decisions, enforced primarily by reputation and reciprocity rather than coercion
+- Compliance with international law is high in routine cases, but breaks down when great-power interests are directly at stake
+:::
+
+
+
+# Questions? {.center}
+
