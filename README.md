@@ -34,3 +34,5 @@ HTML lectures are interactive presentations — open the link in your browser, t
 | 18 | Economic Crisis Cabinet (Activity) | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_18.html) |
 | 19 | International Organizations and International Law | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_19.html) |
 | 20 | International Law on Trial (Activity) | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_20.html) |
+| 21 | Transnational Authoritarianism | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_21.html) |
+| 22 | Democratic Defense Summit (Activity) | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_22.html) |
