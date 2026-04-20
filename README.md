@@ -36,3 +36,5 @@ HTML lectures are interactive presentations — open the link in your browser, t
 | 20 | International Law on Trial (Activity) | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_20.html) |
 | 21 | Transnational Authoritarianism | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_21.html) |
 | 22 | Democratic Defense Summit (Activity) | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_22.html) |
+| 23 | Existential Risk | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_23.html) |
+| 24 | Climate, Cooperation, and Saving the World (Activity) | [HTML](https://giuseppeperessotti.github.io/PSCI3328-International-Relations-2026/slides/lecture_24.html) |

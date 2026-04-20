@@ -1,0 +1,27 @@
+# Safety-first: ignore everything, then whitelist only what goes on GitHub.
+# This prevents accidental pushes of student data, rosters, or readings.
+*
+
+# Allow git and project config
+!.gitignore
+!README.md
+!PSCI3328.Rproj
+
+# Syllabi
+!syllabi/
+!syllabi/**
+
+# Slides: rendered outputs, sources, and assets
+!slides/
+!slides/*.pdf
+!slides/*.qmd
+!slides/*.html
+!slides/*.scss
+!slides/*_files/
+!slides/*_files/**
+!slides/pictures/
+!slides/pictures/**
+
+# Always ignore these even if they land in an allowed folder
+.DS_Store
+.Rhistory
