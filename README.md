@@ -3,11 +3,8 @@
 **Instructor:** Giuseppe Peressotti | **TA:** Partha Chowdhury
 **University of Texas at Dallas**
 
-Course materials for PSCI 3328: Introduction to International Relations.
+Course materials for PSCI 3328: Introduction to International Relations. Latest syllabus uploaded.
 
-## Syllabus
-
-The current syllabus is in [`syllabi/`](syllabi/).
 
 ## Slides
 
