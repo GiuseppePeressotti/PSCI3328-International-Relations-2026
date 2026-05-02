@@ -1,0 +1,181 @@
+---
+title: "Lecture 25: Presentations & Final Review"
+subtitle: "PSCI 3328 — International Relations"
+author: "Giuseppe Peressotti"
+date: "05/06/2026"
+format:
+  revealjs:
+    theme: [default, template_B_bold.scss]
+    slide-number: true
+    progress: true
+    hash: true
+    center: false
+    transition: fade
+    background-transition: fade
+    width: 1920
+    height: 1080
+    margin: 0.05
+    navigation-mode: linear
+    controls: true
+    chalkboard: true
+    footer: "PSCI 3328 — International Relations | Giuseppe Peressotti"
+    title-slide-attributes:
+      data-background-color: "#1B2838"
+---
+
+
+## Attendance {.center}
+
+- Attendance counted through submission of Student Course Feedback (UTD one)!
+
+- On email/University Evaluation System! At: https://eval.utdallas.edu/
+
+
+## Introduction
+
+- Last two presentations today!
+
+- Then: review of the second half of the semester
+
+- **Final papers due May 10th**
+
+- **Final exam: Monday, May 11th, 11:00 AM -- 1:45 PM (in class)**
+
+- Remember to submit *peer review evaluation*, also by May 10th.
+
+
+# Presentations
+
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Final Exam Overview
+
+What to expect on Monday
+:::
+
+
+## Final Exam: Format
+
+- **When:** Monday, May 11th, 11:00 AM -- 1:45 PM
+
+- **Where:** In class, on eLearning (bring your laptop)
+
+- **Closed-book.** No notes, no external tools, no AI.
+
+- Covers the **second half of the semester** (Weeks 8--14), but you are encouraged to draw on material from the entire course
+
+
+## Final Exam: Structure
+
+- **Multiple-choice questions**
+
+- **Short answer questions**
+
+- **One long answer question**
+
+Same principles as the midterm: demonstrate that you understand the concepts, can apply them, and can connect them to real-world examples
+
+## {.section-slide background-color="#1B2838"}
+
+::: {.section-slide}
+# Course Review: Second Half
+
+
+:::
+
+
+## Civil Wars, Terrorism, and the Search for Peace
+
+- **Walter**: the ICT revolution reshaped civil wars. Transnational recruitment, extreme ideologies as commitment devices, conflicts that resist borders and settlement
+
+- **Toft**: negotiated settlements fail without credible enforcement. Rebel victories produce surprisingly durable peace. Effective settlements need **carrots and sticks**
+
+- **Crenshaw**: terrorism is rational organizational strategy, born from **elite disaffection** in contexts of blocked participation. Provocation logic: terrorists want the state to overreact
+
+- Common thread: **commitment problems** keep showing up
+
+
+## International Political Economy
+
+- **IPE** studies how economics and politics shape each other
+
+- Trade produces aggregate gains but creates **winners and losers**
+
+- **Stolper-Samuelson**: trade politics divides along class lines (abundant vs. scarce factors)
+
+- **Ricardo-Viner**: trade politics divides along industry lines (export vs. import-competing sectors)
+
+- **Institutions** (electoral systems, executive authority) determine which groups get their way
+
+- Globalization's uneven gains fuel **populist backlash** in both rich and developing countries (Rodrik)
+
+
+## International Organizations and International Law
+
+- **Keohane's functional theory**: self-interested states create institutions to reduce transaction costs, lower uncertainty, and raise the cost of cheating
+
+- IOs range from technical bodies (UPU) to the **UN system**, each facing tradeoffs between effectiveness and legitimacy
+
+- **P5 veto** reflects 1945 power realities; growing demands for reform
+
+- **International law** works through treaties, custom, and judicial decisions, enforced by **reputation and reciprocity**, not coercion
+
+- Compliance is high in routine cases; breaks down when great-power interests are at stake (South China Sea, ICC)
+
+
+## Transnational Authoritarianism
+
+- Post-Cold War optimism that liberal democracy had "won" proved **premature**: a third wave of autocratization is underway
+
+- **Autocracy Inc.** (Applebaum): autocracies cooperate across borders through financial, security, and propaganda networks, linked by deals, not ideology
+
+- **Asymmetric openness** (Cooley & Nexon): autocracies exploit the liberal order's openness while insulating their own politics
+
+- **Sharp power** (Walker & Ludwig): media partnerships, university funding, tech standards, corporate leverage
+
+- But authoritarian resilience has limits: Assad fell, Maduro was removed (regime persists), Orban lost at the ballot box
+
+
+## Existential Risk
+
+- **Nuclear taboo** (Tannenwald): a normative prohibition, not just deterrence, explains 80 years of non-use. Schelling counters: it is a self-reinforcing focal point, not a moral achievement
+
+- **Deterrence** alone cannot explain non-use against non-nuclear states
+
+- **Existential risk** (Ord, MacAskill): we live at the beginning of human history, not the end.
+
+- AI, engineered pandemics, and climate change pose threats that existing institutions were not built to handle
+
+- **Governance gap**: nuclear regime is mature; climate regime is weak; bioweapons and AI regimes are hollow or nonexistent
+
+
+## Climate and Emerging Risks
+
+- Climate change is the hardest **collective action problem**: caused by everyone, harms are delayed, worst impacts fall on those who contributed least
+
+- **Patrick**: the multilateral system treats ecology as secondary. 
+
+- **Satia**: climate discourse is shaped by power. Asking developing countries to "sacrifice" assumes equal starting points
+
+- AI makes the **security dilemma** worse than nuclear weapons: harder to verify, lower barriers to entry, faster development
+
+
+## What This Course Was About
+
+**How do independent actors in a system with no central authority manage to cooperate, compete, and survive?**
+
+- Sometimes through institutions, law, and norms
+- Sometimes through power, coercion, and hierarchy
+- Sometimes they fail: wars, exploitation, democratic collapse, existential risk
+- The frameworks you learned help you ask **better questions** about all of these
+
+
+## Good Luck on the Final! {.center}
+
+- Same structure as midterm + one extra essay question
+
+- Questions?
+
+
